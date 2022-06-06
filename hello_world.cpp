@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-
+// without namespace
 
 int main(int count, char** strings){
 	

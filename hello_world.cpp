@@ -1,10 +1,12 @@
 #include <iostream>
+#include <string>
 
-using namespace std;
 
 
 int main(int count, char** strings){
-	cout << "hello world" << endl;
+	
+	std::string name;
+	std::cout << "hello world " << name << std::endl;
 	return 0;
 }
 

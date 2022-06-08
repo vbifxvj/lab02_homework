@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-
+# check conflict
 
 int main(int count, char** strings){
 	
